@@ -129,7 +129,3 @@ title('Histogram of VariableName');
 ## 7. Conclusion
 
 This tutorial covered the basic steps of data processing in MATLAB, from loading data to cleaning, transforming, and analyzing it. You can build on these concepts for more advanced data analysis tasks.
-
-```
-
-This markdown template provides a structured way to teach MATLAB's data processing capabilities, with sections that students can follow to understand each step of the process. You can adjust the code snippets according to your specific dataset or teaching objectives.
